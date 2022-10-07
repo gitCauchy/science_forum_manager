@@ -1,16 +1,15 @@
 <template>
   <div>
-    <router-view></router-view>
+    <h1>Science forum manager</h1>
   </div>
 </template>
 
 <script>
-
 export default {
-  name: 'App',
-  components: {}
+  name: "Home"
 }
 </script>
 
-<style>
+<style scoped>
+
 </style>
